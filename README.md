@@ -1,4 +1,4 @@
-# Project Title
+# StudyBud
 
 An online platform to study and interact with other people all over the world
 
